@@ -17,3 +17,7 @@ Version: neo4j 3.0.0
 		org.neo4j.server.thirdparty_jaxrs_classes=org.neo4j.example.unmanagedextension=/example
 
 4. Restart neo4j
+
+5. Query it over HTTP:
+
+        curl http://localhost:7474/example/helloworld/{personName}

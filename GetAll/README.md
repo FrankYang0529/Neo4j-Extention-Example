@@ -15,3 +15,7 @@ Version: neo4j 3.0.0
 2. Put jar to neo4j plugins
 
 3. Restart neo4j
+
+4. Query it over HTTP:
+
+        curl http://localhost:7474/db/data/ext/GetAll/graphdb/get_all_nodes
