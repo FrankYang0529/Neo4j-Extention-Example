@@ -1,4 +1,4 @@
-# Neo4j-Extention-Example
+# Neo4j-Extention-Example (GetAll)
 
 Version: neo4j 3.0.0
 
